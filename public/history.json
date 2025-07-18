@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1752849836644,
+    "timestamp": "2025-07-18T14:43:56.644Z",
+    "original": "blob:http://localhost:5173/20113aa8-9fd8-4ffd-9a0c-fa78d01a40f0",
+    "imageEditing": "https://fal.media/files/panda/YGifvZxLOnTHQ4NYnckdA_70098ab67a724b29a7afd58401e8befe.jpg",
+    "ideogram": "https://v3.fal.media/files/tiger/IjCCU1ltRzl6w3_VSYx5A_image.png",
+    "dimensions": {
+      "width": 1920,
+      "height": 820
+    },
+    "usedAspectRatio": "21:9",
+    "usedImageSize": "landscape_16_9",
+    "imageEditingError": null,
+    "ideogramError": null
+  }
+]
